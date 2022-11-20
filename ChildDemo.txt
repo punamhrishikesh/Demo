@@ -1,7 +1,2 @@
 created file in child branch
-students details
-punam
-sarfaraz
-ankita
-javed
-rohit
+
